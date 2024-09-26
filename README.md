@@ -2,7 +2,7 @@ Welcome to FreeCodeCamp Projects!
 
 Note: This project is a complete implementation of the FreeCodeCamp curriculum. If you're considering completing FreeCodeCamp's projects, it's advisable to tackle them on your own. Working through the projects independently allows for a deeper understanding of the concepts, fosters problem-solving skills, and aids in memory retention. While this project serves as a reference, the true value lies in the learning journey and the hands-on experience gained from building projects from scratch.
 
-FreeCodeCamp is an open-source community that offers a comprehensive curriculum for learning web development, including HTML, CSS, JavaScript, and Python. This repository contains a collection of projects completed as part of my journey to master Python programming through FreeCodeCamp.
+FreeCodeCamp is an open-source community that offers a comprehensive curriculum for learning web development, including HTML, CSS, JavaScript, and Python. This repository contains a collection of projects completed as part of my journey to Learn and implement Python programming through FreeCodeCamp.
 
 **Project List:**
 
