@@ -9,7 +9,7 @@ FreeCodeCamp is an open-source community that offers a comprehensive curriculum 
     Project 1: Build an Arithmetic Formatter Project - COMPLETED
         Description: A Python program that takes in arithmetic problems as strings and formats them neatly for display, including alignment and calculation of results.
 
-    Project 2: Build a Time Calculator Project - NOT COMPLETED
+    Project 2: Build a Time Calculator Project - COMPLETED
         Description: This project involves creating a Python script that calculates the sum of time durations and provides the result in hours and minutes.
 
     Project 3: Build a Budget App Project - NOT COMPLETED
